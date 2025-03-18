@@ -1,4 +1,4 @@
-#Eaglercraft
+# Eaglercraft
 
 Why is avacaine.githhub.io special?
 For those who cannot enable JSPI (especially for people who may not have a ton of money, and cant afford a computer other than a free chromebook from a school)
